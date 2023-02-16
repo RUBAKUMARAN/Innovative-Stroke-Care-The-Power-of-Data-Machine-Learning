@@ -9,4 +9,6 @@
 - WHO identifies ischaemic heart disease and stroke as the two leading causes of mortality and disability worldwide.
 - According to the American Heart Association, stroke is considered a severe health issue due to its high mortality rate.
 
+## Context
+- The data was obtained from Kaggle :[https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset]
 
